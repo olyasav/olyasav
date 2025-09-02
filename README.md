@@ -1,16 +1,26 @@
-## Hi there 👋
+## Привет, меня зовут Оля! 👋
 
-<!--
-**olyasav/olyasav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Занимаюсь аналитикой данных 📈
+
+Готова к сотрудничеству 🤝
+
+Мои проекты 👇:
+
+
+
+
+|Название проекта        |	Описание проекта             |	Стек         |
+-------------------------| ------------------------------|---------------|
+|Проект 1 Визуализация | Создание дашборд на основе  Dashboard Canvas |  DataLens
+|Проект 2 Исследование нескольких аспектов мобильной игры (github)	| Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap). |	pandas,numpy,seaborn, matplotlib,scipy,requests|
+
+
+
+
+### 🛠️ Languages and Tools :
+
+| Python     | Jupyter     | PostgreSQL     | SQL     | Redash     | EXCEL     | GIT     | DataLens     | Apache     | Airflow
