@@ -15,8 +15,9 @@
 
 |Название проекта        |	Описание проекта             |	Стек         |
 -------------------------| ------------------------------|---------------|
-|*Проект 1* Визуализация [Github](https://github.com/olyasav/for_project_1) | Создание дашборда на основе  Dashboard Canvas |  DataLens
-|*Проект 2* Исследование нескольких аспектов мобильной игры (github)	| Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap). |	pandas,numpy,seaborn, matplotlib,scipy,requests|
+|*Проект 1* Визуализация [github](https://github.com/olyasav/for_project_1) | Создание дашборда на основе  Dashboard Canvas |  DataLens
+|*Проект 2* Исследование причин отсутствия увеличения выручки маркетплейса [github](https://github.com/olyasav/for_project_2) | Определение retention. Наличие/отсутсвие PMF. Расчет и анализ продуктовых метрик. Поиск причин отсутствия роста выручки маркетплейса в течение несколько месяцев. | python, pandas, jupiter notebook |
+|*Проект 3* Исследование нескольких аспектов мобильной игры (github)	| Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap). |	pandas,numpy,seaborn, matplotlib,scipy,requests|
 
 
 
