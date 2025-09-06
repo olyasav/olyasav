@@ -23,7 +23,7 @@
 |*Проект 1* Исследование мобильного приложения [github](https://github.com/olyasav/for_project_1)	| Написание функции для подсчета retention, определение лучшего набора акционных предложений на основании A/B тестирования, определение метрик для оценки результатов последнего события в игре. |	Python, pandas, scipy, requests|
 |*Проект 2* Исследование причин отсутствия увеличения выручки маркетплейса [github](https://github.com/olyasav/for_project_2) | Определение retention. Наличие/отсутсвие PMF. Расчет и анализ продуктовых метрик. Формулирование гипотез для улучшения продукта. Выбор метрик, на которые гипотеза должна повлиять. | Python, Pandas, Jupiter Notebook |
 |*Проект 3* Оценка нового алгоритма в приложении для онлайн знакомств [github](https://github.com/olyasav/for_project_3) | А/Б тест, выбор метрик, выбор статистического критерия  |  Python, Pandas, Scipy, Jupiter Notebook |
-|*Проект 4* Визуализация [github](https://github.com/olyasav/for_project_1) | Создание дашборда на основе  Dashboard Canvas |  DataLens
+|*Проект 4* Визуализация [github](https://github.com/olyasav/for_project_4) | Создание дашборда на основе  Dashboard Canvas |  DataLens
 
 
 
