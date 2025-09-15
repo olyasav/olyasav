@@ -30,7 +30,7 @@
 
 ### 🛠️ Languages and Tools :
 
-![Python](https://img.shields.io/badge/Python-%23734F96.svg?style=for-the-badge&logo=Python&logoColor=white) ![Jupiter Notebook](https://img.shields.io/badge/Jupiter_Notebook-%2300ADD8.svg?style=for-the-badge&logo=jupiternotebook&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E10098?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300ADD8.svg?style=for-the-badge&logo=SQL&logoColor=white)   ![Redash](https://img.shields.io/badge/Redash-5e5086?style=for-the-badge&logo=Redash&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white) ![DataLens](https://img.shields.io/badge/DataLens-%23ED8B00.svg?style=for-the-badge&logo=DataLens&logoColor=white)   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23E34F26.svg?style=for-the-badge&logo=Airflow&logoColor=white) ![EXCEL](https://img.shields.io/badge/-EXCEL-E10098?style=for-the-badge&logo=EXCEL&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%23734F96.svg?style=for-the-badge&logo=Python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23ED8B00.svg?style=for-the-badge&logo=Pandas&logoColor=white) ![Jupiter Notebook](https://img.shields.io/badge/Jupiter_Notebook-%2300ADD8.svg?style=for-the-badge&logo=jupiternotebook&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E10098?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300ADD8.svg?style=for-the-badge&logo=SQL&logoColor=white)   ![Redash](https://img.shields.io/badge/Redash-5e5086?style=for-the-badge&logo=Redash&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white) ![DataLens](https://img.shields.io/badge/DataLens-%23ED8B00.svg?style=for-the-badge&logo=DataLens&logoColor=white)   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23E34F26.svg?style=for-the-badge&logo=Airflow&logoColor=white) ![EXCEL](https://img.shields.io/badge/-EXCEL-E10098?style=for-the-badge&logo=EXCEL&logoColor=white) ![Статистика](https://img.shields.io/badge/Статистика-%23734F96.svg?style=for-the-badge&logo=Статистика&logoColor=white) ![Теория_вероятности](https://img.shields.io/badge/Теория_вероятности-%23ED8B00.svg?style=for-the-badge&logo=Теория_вероятности&logoColor=white) ![Когортный_анализ](https://img.shields.io/badge/Когортный_анализ-%2300ADD8.svg?style=for-the-badge&logo=когортныйанализ&logoColor=white) ![A/B_тесты](https://img.shields.io/badge/A/B_тесты-5e5086?style=for-the-badge&logo=A/B_тесты&logoColor=white) ![RFM_анализ](https://img.shields.io/badge/-RFM_анализ-E10098?style=for-the-badge&logo=RFM_анализ&logoColor=white) ![Unit_экономика](https://img.shields.io/badge/Unit_экономика-%23E34F26.svg?style=for-the-badge&logo=Unit_экономика&logoColor=white)
 
 
 
@@ -38,7 +38,8 @@
 karpov.courses, Аналитик данных. [Сертификат](https://lab.karpov.courses/certificate/e5e57ebf-b17c-4d88-b8c5-b2ef2c366f12/)
 
 # Контакты
-
-
+[Telegram](@olya_savicheva1)  
+[LinkedIn](www.linkedin.com/in/olya-savicheva)  
+[Почта](www.savicheva.va@google.com)
 
 
