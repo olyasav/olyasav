@@ -38,8 +38,8 @@
 karpov.courses, Аналитик данных. [Сертификат](https://lab.karpov.courses/certificate/e5e57ebf-b17c-4d88-b8c5-b2ef2c366f12/)
 
 # Контакты
-[Telegram](@olya_savicheva1)  
-[LinkedIn](www.linkedin.com/in/olya-savicheva)  
-[Почта](www.savicheva.va@google.com)
+[TG](https://t.me/@olya_savicheva1)  
+[LinkedIn](https://www.linkedin.com/in/olya-savicheva/)  
+[Почта](https://www.savicheva.va@google.com)
 
 
